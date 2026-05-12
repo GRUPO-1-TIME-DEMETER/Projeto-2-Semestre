@@ -53,17 +53,18 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 1    | Alta       |Como gestor público, desejo visualizar um protótipo inicial de dashboard baseado na base RAIS do governo, com foco no setor alimentício nos municípios de São José dos Campos e Caçapava. Este protótipo utilizará dados fictícios, e terá como objetivo apresentar uma comparação exploratória entre os diferentes CNAEs do setor alimentício         |    12h     |    1   |
+| 2    | Alta       |Como gestor público, quero ver representações gráficas dos principais indicadores de exportação e importação, para ter uma visão inicial do comportamento comercial da região.|  10h     |    1   |
+| 3    | Média      |Como gestor público, quero que o protótipo apresente os setores industriais mais relevantes da região, para direcionar a análise dos próximos levantamentos de dados.            |     6h     |    1   |
+| 4    | Alta       |Como gestor público, quero acessar dados reais de exportação e importação da cadeia produtiva alimentícia da região, para analisar o desempenho comercial com base em informações confiáveis.                                                                                                                                                         |    10h     |    2   |
+| 5    | Alta       |Como gestor público, quero filtrar os dados por cidade e por tipo de produto (SH2), para personalizar m8inha análise e comparar diferentes contextos.    |     8h     |    2   |
+| 6    | Alta       |Como gestor público, quero visualizar os municípios que mais exportam e importam, para identificar polos econômicos e tendências locais.                 |     8h     |    2   |
+| 7    | Média      |Como gestor público, quero cunsultar o produto mais exportado da região, para entender a vocação produtiva local e orientar políticas industriais.       |     6h     |    2   |
+| 8    | Alta       |Como gestor público, quero acessar dados detalhados no nível SH4, para ter uma compreensão mais precisa sobre os produtos comercializados na região.     |    12h     |    3   |
+| 9    | Alta       |Como gestor público, quero visualizar variações de aumento ou queda nas exportações e importações, para detectar mudanças significativas no comportamento do mercado alimentício regional.                                                                                                                                                         |     8h     |    3   |
+| 10   | Média      |Como gestor público, quero uma análise para entender os motivos dessas variações (aumento ou queda), para tomar decisões mais estratégicas sobre incentivos e políticas públicas.                                                                                                                                                         |    10h     |    3   |
 
 
-
-
-
-  
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
