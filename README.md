@@ -40,12 +40,11 @@ Este projeto tem como objetivo desenvolver um portal interativo para análise da
 
 ## Tecnologias Utilizadas
 
-* Jira Software
 * Power BI
 * Microsoft Excel
-* Slack
-* Python (Colab)
-* Mysql
+* VScode
+* Python 
+* Canva
 
 
 
@@ -69,7 +68,7 @@ Este projeto tem como objetivo desenvolver um portal interativo para análise da
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
+| 01                | 04/05/2026 | feito  | [MVP](MVP/sp1.md)  |
 | 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
