@@ -29,7 +29,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo desenvolver um portal interativo para análise da cadeia produtiva alimentícia, utilizando dados oficiais da RAIS dos municípios de São José dos Campos e Caçapava:
+Este projeto tem como objetivo desenvolver um portal interativo para análise da cadeia produtiva alimentícia, utilizando dados oficiais da RAIS dos municípios de São José dos Campos e Caçapava.
 
 * Centralizar e organizar informações sobre a estrutura produtiva regional;
 * Analisar indicadores de empregabilidade, remuneração e escolaridade;
