@@ -12,22 +12,31 @@
 ## 📝 Descrição da Solução
 > O MVP consiste no desenvolvimento de um portal de análise de dados voltado à cadeia produtiva alimentícia, permitindo consultas e comparações entre indicadores relevantes do setor.
 A plataforma utilizará dados extraídos e filtrados da base RAIS, considerando os municípios de São José dos Campos e Caçapava, com foco nos CNAEs relacionados à indústria alimentícia.  
-## Funcionalidades principais incluídas:
+### Funcionalidades principais incluídas:
 
 -Dashboard interativo com indicadores do setor alimentício;
+
 -Visualização de dados de empregabilidade;
+
 -Comparação entre a Nestlé e demais empresas do setor;
+
 -Exibição de indicadores de escolaridade;
+
 -Visualização de remuneração média;
+
 -Consulta de informações filtradas por CNAEs;
+
 -Gráficos e painéis em Business Intelligence (BI).  
-## Limitações conhecidas:
- 
+### Limitações conhecidas:
+
 -Utilização inicial de uma base de dados limitada ao setor alimentício;
+
 -Comparação focada apenas nos municípios definidos pelo projeto;
+
 -Ausência de funcionalidades avançadas de previsão e automação;
+
 -Portal voltado apenas para fins acadêmicos e analíticos nesta etapa inicial. 
-## Escopo reduzido:
+### Escopo reduzido:
   
    -O MVP contempla apenas as funcionalidades essenciais para validar a proposta da plataforma, priorizando a visualização de indicadores e a comparação de dados entre empresas do setor alimentício.
   
@@ -57,10 +66,15 @@ A plataforma utilizará dados extraídos e filtrados da base RAIS, considerando 
 
 ## 📊 Critérios de Aceitação
 -O sistema deve apresentar dashboards interativos;
+
 -O usuário deve conseguir visualizar indicadores de empregabilidade, escolaridade e remuneração;
+
 -O portal deve permitir comparações entre a Nestlé e outras empresas do setor;
+
 -O sistema deve exibir dados organizados de forma clara e intuitiva;
+
 -O usuário deve conseguir consultar informações utilizando filtros básicos;
+
 -O tempo de resposta do sistema deve permanecer estável durante as consultas.  
 
 ---
