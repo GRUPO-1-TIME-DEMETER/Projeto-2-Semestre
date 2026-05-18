@@ -1,8 +1,8 @@
 
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [DEMÉTER - 1]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
+> ANÁLISE DE OPERAÇÕES EM INFRAESTRUTURAS DE PRODUÇÃO 
 - Qual problema resolve?  
 - Qual hipótese será validada?  
 - Qual valor será entregue ao usuário final?  
