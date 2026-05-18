@@ -38,7 +38,7 @@ A plataforma utilizará dados extraídos e filtrados da base RAIS, considerando 
 - Portal voltado apenas para fins acadêmicos e analíticos nesta etapa inicial. 
 ### Escopo reduzido:
   
-   -O MVP contempla apenas as funcionalidades essenciais para validar a proposta da plataforma, priorizando a visualização de indicadores e a comparação de dados entre empresas do setor alimentício.
+   - O MVP contempla apenas as funcionalidades essenciais para validar a proposta da plataforma, priorizando a visualização de indicadores e a comparação de dados entre empresas do setor alimentício.
   
 ---
 
