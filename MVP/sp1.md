@@ -13,6 +13,7 @@
 > O MVP consiste no desenvolvimento de um portal de análise de dados voltado à cadeia produtiva alimentícia, permitindo consultas e comparações entre indicadores relevantes do setor.
 A plataforma utilizará dados extraídos e filtrados da base RAIS, considerando os municípios de São José dos Campos e Caçapava, com foco nos CNAEs relacionados à indústria alimentícia.  
 - Funcionalidades principais incluídas:
+
 Dashboard interativo com indicadores do setor alimentício;
 Visualização de dados de empregabilidade;
 Comparação entre a Nestlé e demais empresas do setor;
