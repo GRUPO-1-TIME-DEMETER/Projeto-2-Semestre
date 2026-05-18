@@ -14,28 +14,28 @@
 A plataforma utilizará dados extraídos e filtrados da base RAIS, considerando os municípios de São José dos Campos e Caçapava, com foco nos CNAEs relacionados à indústria alimentícia.  
 ### Funcionalidades principais incluídas:
 
--Dashboard interativo com indicadores do setor alimentício;
+- Dashboard interativo com indicadores do setor alimentício;
 
--Visualização de dados de empregabilidade;
+- Visualização de dados de empregabilidade;
 
--Comparação entre a Nestlé e demais empresas do setor;
+- Comparação entre a Nestlé e demais empresas do setor;
 
--Exibição de indicadores de escolaridade;
+- Exibição de indicadores de escolaridade;
 
--Visualização de remuneração média;
+- Visualização de remuneração média;
 
--Consulta de informações filtradas por CNAEs;
+- Consulta de informações filtradas por CNAEs;
 
--Gráficos e painéis em Business Intelligence (BI).  
+- Gráficos e painéis em Business Intelligence (BI).  
 ### Limitações conhecidas:
 
--Utilização inicial de uma base de dados limitada ao setor alimentício;
+- Utilização inicial de uma base de dados limitada ao setor alimentício;
 
--Comparação focada apenas nos municípios definidos pelo projeto;
+- Comparação focada apenas nos municípios definidos pelo projeto;
 
--Ausência de funcionalidades avançadas de previsão e automação;
+- Ausência de funcionalidades avançadas de previsão e automação;
 
--Portal voltado apenas para fins acadêmicos e analíticos nesta etapa inicial. 
+- Portal voltado apenas para fins acadêmicos e analíticos nesta etapa inicial. 
 ### Escopo reduzido:
   
    -O MVP contempla apenas as funcionalidades essenciais para validar a proposta da plataforma, priorizando a visualização de indicadores e a comparação de dados entre empresas do setor alimentício.
@@ -65,17 +65,17 @@ A plataforma utilizará dados extraídos e filtrados da base RAIS, considerando 
 ---
 
 ## 📊 Critérios de Aceitação
--O sistema deve apresentar dashboards interativos;
+- O sistema deve apresentar dashboards interativos;
 
--O usuário deve conseguir visualizar indicadores de empregabilidade, escolaridade e remuneração;
+- O usuário deve conseguir visualizar indicadores de empregabilidade, escolaridade e remuneração;
 
--O portal deve permitir comparações entre a Nestlé e outras empresas do setor;
+- O portal deve permitir comparações entre a Nestlé e outras empresas do setor;
 
--O sistema deve exibir dados organizados de forma clara e intuitiva;
+- O sistema deve exibir dados organizados de forma clara e intuitiva;
 
--O usuário deve conseguir consultar informações utilizando filtros básicos;
+- O usuário deve conseguir consultar informações utilizando filtros básicos;
 
--O tempo de resposta do sistema deve permanecer estável durante as consultas.  
+- O tempo de resposta do sistema deve permanecer estável durante as consultas.  
 
 ---
 
@@ -88,13 +88,20 @@ A nova proposta busca analisar indicadores relacionados à empregabilidade, nív
 ---
 
 ## 🚀 Próximos Passos
--Reestruturar o modelo analítico do projeto com foco na comparação entre unidades da Nestlé no Brasil;
--Atualizar os dashboards conforme o novo direcionamento proposto pelo cliente;
--Realizar a extração, tratamento e organização dos dados da base RAIS relacionados às unidades selecionadas;
--Desenvolver análises comparativas de empregabilidade, escolaridade e remuneração média;
--Implementar melhorias visuais e funcionais nos painéis em Business Intelligence (BI);
--Validar os novos indicadores e gráficos junto ao cliente e orientadores;
--Aprimorar a experiência do usuário e a organização das informações apresentadas no portal;
--Preparar a versão final do dashboard para apresentação e entrega do projeto.
+- Reestruturar o modelo analítico do projeto com foco na comparação entre unidades da Nestlé no Brasil;
+  
+- Atualizar os dashboards conforme o novo direcionamento proposto pelo cliente;
+  
+- Realizar a extração, tratamento e organização dos dados da base RAIS relacionados às unidades selecionadas;
+  
+- Desenvolver análises comparativas de empregabilidade, escolaridade e remuneração média;
+  
+- Implementar melhorias visuais e funcionais nos painéis em Business Intelligence (BI);
+  
+- Validar os novos indicadores e gráficos junto ao cliente e orientadores;
+  
+- Aprimorar a experiência do usuário e a organização das informações apresentadas no portal;
+  
+- Preparar a versão final do dashboard para apresentação e entrega do projeto.
 
 ---
