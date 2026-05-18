@@ -53,7 +53,7 @@ Portal voltado apenas para fins acadêmicos e analíticos nesta etapa inicial.
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como gestor público, desejo visualizar um protótipo inicial de dashboard baseado na base RAIS do governo, com foco no setor alimentício nos municípios de São José dos Campos e Caçapava. Este protótipo utilizará dados fictícios, e terá como objetivo apresentar uma comparação exploratória entre os diferentes CNAEs do setor alimentício.      | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US2 | Como gestor público, desejo ser capaz de visualizar uma análise comparativa entre as empresas alimentícias da região e a empresa a Nestlé em Caçapava. Essa análise será construída com dados fictícios e tem como objetivo estruturar um modelo inicial de avaliação, permitindo identificar diferenças e padrões nos principais indicadores, como empregabilidade, nível de escolaridade e remuneração média.         | Alta      | 3 pontos   |
 
 ---
 
