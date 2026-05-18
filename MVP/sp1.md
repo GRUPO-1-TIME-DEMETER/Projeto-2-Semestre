@@ -30,12 +30,16 @@ Gráficos e painéis em Business Intelligence (BI).
 - Limitações conhecidas:
  
 Utilização inicial de uma base de dados limitada ao setor alimentício;
+
 Comparação focada apenas nos municípios definidos pelo projeto;
+
 Ausência de funcionalidades avançadas de previsão e automação;
+
 Portal voltado apenas para fins acadêmicos e analíticos nesta etapa inicial. 
 - Escopo reduzido:
-   
-O MVP contempla apenas as funcionalidades essenciais para validar a proposta da plataforma, priorizando a visualização de indicadores e a comparação de dados entre empresas do setor alimentício.
+  
+   O MVP contempla apenas as funcionalidades essenciais para validar a proposta da plataforma, priorizando a visualização de indicadores e a comparação de dados entre empresas do setor alimentício.
+  
 ---
 
 ## 👥 Personas / Usuários-Alvo
