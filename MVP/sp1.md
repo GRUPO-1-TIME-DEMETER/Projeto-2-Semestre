@@ -12,33 +12,24 @@
 ## 📝 Descrição da Solução
 > O MVP consiste no desenvolvimento de um portal de análise de dados voltado à cadeia produtiva alimentícia, permitindo consultas e comparações entre indicadores relevantes do setor.
 A plataforma utilizará dados extraídos e filtrados da base RAIS, considerando os municípios de São José dos Campos e Caçapava, com foco nos CNAEs relacionados à indústria alimentícia.  
-- Funcionalidades principais incluídas:
+## Funcionalidades principais incluídas:
 
-Dashboard interativo com indicadores do setor alimentício;
-
-Visualização de dados de empregabilidade;
-
-Comparação entre a Nestlé e demais empresas do setor;
-
-Exibição de indicadores de escolaridade;
-
-Visualização de remuneração média;
-
-Consulta de informações filtradas por CNAEs;
-
-Gráficos e painéis em Business Intelligence (BI).  
-- Limitações conhecidas:
+-Dashboard interativo com indicadores do setor alimentício;
+-Visualização de dados de empregabilidade;
+-Comparação entre a Nestlé e demais empresas do setor;
+-Exibição de indicadores de escolaridade;
+-Visualização de remuneração média;
+-Consulta de informações filtradas por CNAEs;
+-Gráficos e painéis em Business Intelligence (BI).  
+## Limitações conhecidas:
  
-Utilização inicial de uma base de dados limitada ao setor alimentício;
-
-Comparação focada apenas nos municípios definidos pelo projeto;
-
-Ausência de funcionalidades avançadas de previsão e automação;
-
-Portal voltado apenas para fins acadêmicos e analíticos nesta etapa inicial. 
-- Escopo reduzido:
+-Utilização inicial de uma base de dados limitada ao setor alimentício;
+-Comparação focada apenas nos municípios definidos pelo projeto;
+-Ausência de funcionalidades avançadas de previsão e automação;
+-Portal voltado apenas para fins acadêmicos e analíticos nesta etapa inicial. 
+## Escopo reduzido:
   
-   O MVP contempla apenas as funcionalidades essenciais para validar a proposta da plataforma, priorizando a visualização de indicadores e a comparação de dados entre empresas do setor alimentício.
+   -O MVP contempla apenas as funcionalidades essenciais para validar a proposta da plataforma, priorizando a visualização de indicadores e a comparação de dados entre empresas do setor alimentício.
   
 ---
 
@@ -60,27 +51,36 @@ Portal voltado apenas para fins acadêmicos e analíticos nesta etapa inicial.
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Extração e filtragem dos dados RAIS                       | Concluído|
+| 02     | Desenvolvimento do protótipo do dashboard utilizando dados da base RAIS, com foco na análise comparativa da cadeia produtiva alimentícia nos municípios de São José dos Campos e Caçapava, contemplando indicadores de empregabilidade, escolaridade e remuneração média.                           | Em andamento |
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+-O sistema deve apresentar dashboards interativos;
+-O usuário deve conseguir visualizar indicadores de empregabilidade, escolaridade e remuneração;
+-O portal deve permitir comparações entre a Nestlé e outras empresas do setor;
+-O sistema deve exibir dados organizados de forma clara e intuitiva;
+-O usuário deve conseguir consultar informações utilizando filtros básicos;
+-O tempo de resposta do sistema deve permanecer estável durante as consultas.  
 
 ---
 
-## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+## 📈 Métricas de Validação 
+A equipe passou por um processo de avaliação e obteve uma devolutiva positiva por parte do cliente. Durante a análise do projeto, foram apresentadas sugestões de melhoria relacionadas à abordagem analítica e à estrutura do dashboard desenvolvido.
+Inicialmente, a proposta do grupo consistia na realização de uma comparação entre a Nestlé e outras indústrias alimentícias localizadas no Vale do Paraíba. Entretanto, após o feedback recebido, foi sugerida uma reformulação da análise, direcionando também um painel único no dashboard do projeto para uma comparação entre diferentes unidades da Nestlé no Brasil.
+A nova proposta busca analisar indicadores relacionados à empregabilidade, nível de escolaridade e remuneração média, permitindo uma visualização mais estratégica, abrangente e alinhada aos objetivos analíticos do projeto.
+
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+-Reestruturar o modelo analítico do projeto com foco na comparação entre unidades da Nestlé no Brasil;
+-Atualizar os dashboards conforme o novo direcionamento proposto pelo cliente;
+-Realizar a extração, tratamento e organização dos dados da base RAIS relacionados às unidades selecionadas;
+-Desenvolver análises comparativas de empregabilidade, escolaridade e remuneração média;
+-Implementar melhorias visuais e funcionais nos painéis em Business Intelligence (BI);
+-Validar os novos indicadores e gráficos junto ao cliente e orientadores;
+-Aprimorar a experiência do usuário e a organização das informações apresentadas no portal;
+-Preparar a versão final do dashboard para apresentação e entrega do projeto.
 
 ---
