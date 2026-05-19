@@ -63,7 +63,7 @@ A plataforma utilizará dados extraídos e filtrados da base RAIS, considerando 
 |--------|----------------------------------------------|----------|
 | 01     | Extração e filtragem dos dados RAIS                       | Concluído|
 | 02     | Desenvolvimento do protótipo do dashboard utilizando dados da base RAIS, com foco na análise comparativa da cadeia produtiva alimentícia nos municípios de São José dos Campos e Caçapava, contemplando indicadores de empregabilidade, escolaridade e remuneração média.                             | Concluído|
-| 03     | ...                          | Em andamento |
+| 03     | Conclusão e entrega da versão final do dashboard analítico, contemplando a comparação entre diferentes unidades da Nestlé no Brasil por meio de dados da base RAIS. O sistema apresentou análises completas de empregabilidade, escolaridade e remuneração média, incluindo segmentações por área de atuação, gênero e raça, permitindo identificar padrões, diferenças estruturais, sazonalidades e oportunidades de melhoria entre as unidades analisadas. Além disso, foram implementadas melhorias visuais, organizacionais e funcionais nos painéis em Business Intelligence (BI), garantindo uma apresentação mais estratégica, intuitiva e alinhada às necessidades do cliente.                     | Em andamento |
 ---
 
 ## 📊 Critérios de Aceitação
