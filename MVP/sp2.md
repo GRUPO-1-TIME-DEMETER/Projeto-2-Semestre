@@ -61,8 +61,9 @@ A plataforma utilizará dados extraídos e filtrados da base RAIS, considerando 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 02     | Extração e filtragem dos dados RAIS                       | Concluído|
-| 03     | Desenvolvimento do protótipo do dashboard utilizando dados da base RAIS, com foco na análise comparativa da cadeia produtiva alimentícia nos municípios de São José dos Campos e Caçapava, contemplando indicadores de empregabilidade, escolaridade e remuneração média.                           | Em andamento |
+| 01     | Extração e filtragem dos dados RAIS                       | Concluído|
+| 02     | Desenvolvimento do protótipo do dashboard utilizando dados da base RAIS, com foco na análise comparativa da cadeia produtiva alimentícia nos municípios de São José dos Campos e Caçapava, contemplando indicadores de empregabilidade, escolaridade e remuneração média.                             | Concluído|
+| 03     | ...                          | Em andamento |
 ---
 
 ## 📊 Critérios de Aceitação
