@@ -103,3 +103,10 @@ A nova proposta busca analisar indicadores relacionados à empregabilidade, nív
 - Validar os novos indicadores e gráficos junto ao cliente e orientadores;
   
 - Aprimorar a experiência do usuário e a organização das informações apresentadas no portal;
+
+
+## 📂 Anexos / Evidências
+<img width="1599" height="899" alt="421814bd-c9eb-4fb0-8607-55355d8899d2" src="https://github.com/user-attachments/assets/981db986-8cf8-40f6-8959-f0941a200ecc" />
+<img width="1599" height="899" alt="19ba6ed7-4c48-49e4-ae18-a1b7acc5e999" src="https://github.com/user-attachments/assets/c8abd5ee-e6c7-4b82-b2b3-42a246325ada" />
+<img width="1599" height="899" alt="95ff637c-85f4-45c6-a1c3-ef8d5f88d5d5" src="https://github.com/user-attachments/assets/0a6ab52e-9f40-43d8-9c53-4dcf8c39b33c" />
+
